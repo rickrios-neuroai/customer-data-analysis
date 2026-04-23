@@ -18,5 +18,10 @@ This project analyzes customer data to extract insights and visualize patterns.
 - Pandas
 - Matplotlib
 
+## 📁 Files
+- `customer_analysis_visualization.ipynb` → Full analysis
+- `customer_data.csv` → Dataset used
+
 ## 👨‍💻 Author
-Rick Rios
+Rick Rios  
+GitHub: https://github.com/rickrios-neuroai
