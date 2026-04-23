@@ -21,6 +21,9 @@ This project analyzes customer data to extract insights and visualize patterns.
 ## 📁 Files
 - `customer_analysis_visualization.ipynb` → Full analysis
 - `customer_data.csv` → Dataset used
+  
+## 📊 Sample Visualization
+![Age Distribution](age_distribution.png)
 
 ## 👨‍💻 Author
 Rick Rios  
